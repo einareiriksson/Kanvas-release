@@ -4,12 +4,12 @@ Public release downloads and Sparkle update feed for **Kanvas** (macOS).
 
 ## Download
 
-- **Latest release:** [Kanvas-0.3.21.dmg](https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/Kanvas-0.3.21.dmg) (v0.3.21)
+- **Latest release:** [Kanvas-0.3.22.dmg](https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/Kanvas-0.3.22.dmg) (v0.3.22)
 - **Sparkle feed:** `https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/appcast.xml`
 
 ## Installation
 
-1. Download **Kanvas-0.3.21.dmg** above and open it.
+1. Download **Kanvas-0.3.22.dmg** above and open it.
 2. Drag **Kanvas.app** into **Applications**.
 3. Once installed, Kanvas checks for updates automatically via **Kanvas › Check for Updates…**.
 
