@@ -3,6 +3,15 @@
     <channel>
         <title>Kanvas</title>
         <item>
+            <title>0.3.19</title>
+            <pubDate>Sat, 21 Nov 2026 21:20:51 +0000</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.3.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/Kanvas-0.3.19.dmg" length="7037495" type="application/octet-stream" sparkle:edSignature="s6WOunIgbD6T7a26ecJsdJEW1huyxs1jnpBw9SeTI8ok5ixfbJppMXD2BcB5WVzuxSWL0/U7DvwubjyhDzc8CQ=="/>
+        </item>
+        <item>
             <title>0.3.18</title>
             <pubDate>Sat, 21 Nov 2026 12:43:07 +0000</pubDate>
             <sparkle:version>28</sparkle:version>
@@ -22,15 +31,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/Kanvas27-26.delta" sparkle:deltaFrom="26" length="994802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gxUI0zgv094XGrL99vpo755JfSAEsPkzLbFHJL9TfjySxOHLyZxHtathR1ga6UkOYgBZkPdarnO9r27df4pFCA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.16</title>
-            <pubDate>Sat, 21 Nov 2026 12:19:16 +0000</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>0.3.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/Kanvas-0.3.16.dmg" length="4865921" type="application/octet-stream" sparkle:edSignature="W4cLTqjCJVl6kE3mqC8cgNtWFzMWdjRJTNDrVJBXArZ43utBMJeyJGcL+ueJSYZTLyCp+KwRuH2vCLJejyfQAg=="/>
         </item>
     </channel>
 </rss>
