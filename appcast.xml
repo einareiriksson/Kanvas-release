@@ -3,6 +3,15 @@
     <channel>
         <title>Kanvas</title>
         <item>
+            <title>0.3.20</title>
+            <pubDate>Sat, 21 Nov 2026 21:25:48 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.3.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/Kanvas-0.3.20.dmg" length="6058276" type="application/octet-stream" sparkle:edSignature="1/JhfEJ0hOlARHoQoti9uLLcF6+PZjRuFcCNdksHhXyu+uMAZwtKTGB2EDIEjuq2hAdwoKM4wRXvG/PyzOo3Dw=="/>
+        </item>
+        <item>
             <title>0.3.19</title>
             <pubDate>Sat, 21 Nov 2026 21:20:51 +0000</pubDate>
             <sparkle:version>29</sparkle:version>
@@ -19,18 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/Kanvas-0.3.18.dmg" length="6024447" type="application/octet-stream" sparkle:edSignature="jRDsgwGUNCjMUk5qDML4ZC2k6i1AdDObk9SlF9hidnGlB4RAPMvpXc2GLoqnRURlgQEejuuPFl+ha+7riUQwDA=="/>
-        </item>
-        <item>
-            <title>0.3.17</title>
-            <pubDate>Sat, 21 Nov 2026 12:32:55 +0000</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>0.3.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/Kanvas-0.3.17.dmg" length="6024459" type="application/octet-stream" sparkle:edSignature="mYGeNhHH9ocAVk4pE6v2cPxxYj5S4hcw4s9W1L5HqbYPnIqWdE0gG8Zb0L0xPVGOvWx1bBMOOvr0xuj4DFWYBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/Kanvas27-26.delta" sparkle:deltaFrom="26" length="994802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gxUI0zgv094XGrL99vpo755JfSAEsPkzLbFHJL9TfjySxOHLyZxHtathR1ga6UkOYgBZkPdarnO9r27df4pFCA=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
