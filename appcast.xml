@@ -3,6 +3,15 @@
     <channel>
         <title>Kanvas</title>
         <item>
+            <title>0.3.26</title>
+            <pubDate>Sun, 22 Nov 2026 21:28:36 +0000</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>0.3.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/Kanvas-0.3.26.dmg" length="7370727" type="application/octet-stream" sparkle:edSignature="VKU7tioQx5K2Gs1R2C+4MhBzyIT+rDRCJ3Ize1heoK0F3BKvIx9OD7uRy/EIMcOenp4EucnciolWLxQAYXNjBQ=="/>
+        </item>
+        <item>
             <title>0.3.25</title>
             <pubDate>Sun, 22 Nov 2026 14:16:55 +0000</pubDate>
             <sparkle:version>35</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/Kanvas-0.3.24.dmg" length="6280426" type="application/octet-stream" sparkle:edSignature="5W7/1ZE1S3mO9khuvnE5/GFn8OweqAvMBM6fRLdD9GawBp2oyHS7+QnO0ggfE271zcmxKz1KvbkKgCWZOl1XAA=="/>
-        </item>
-        <item>
-            <title>0.3.23</title>
-            <pubDate>Sun, 22 Nov 2026 12:20:55 +0000</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>0.3.23</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/einareiriksson/Kanvas-release/main/Kanvas-0.3.23.dmg" length="7356963" type="application/octet-stream" sparkle:edSignature="Z6jIx258a8849WgO/mOIkR8cL8FCC29fvksIl3quXkrSpN/wjj+O2r07VIY18PAqq9Er5AozADteGkp7FHAxAg=="/>
         </item>
     </channel>
 </rss>
